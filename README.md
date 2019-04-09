@@ -2,12 +2,15 @@
 
 Below are shown two examples how Git-Start is integrated into the Readme.md
 
-## Need help
+
+# Live support
+
+## Get help
+
 If you have an urgent problem, hire a mentor for a 1:1 live session on Git-Start:
+[![Get 1:1 live support for your issue.](https://git-start.com/assets/git-start-mentee-banner-medium.svg?sanitize=true)](https://git-start.com/help-request/create/360disrupt%2Fgit-start-example)
 
-[![Get help](./git-start-mentee-banner-medium.png)](https://beta.git-start.com/help-request/create/360disrupt%2Fgit-start-example)
+## Provide help
 
-## Provide paid help
-Provide help to others in paid live sessions.
-
-[![Get help](./git-start-mentor-banner-medium.png)](https://beta.git-start.com/help-request-overview/360disrupt%2Fgit-start-example)
+Help others in paid 1:1 live sessions to get started.
+[![Give paid 1:1 live support.](https://git-start.com/assets/git-start-mentor-banner-medium.svg?sanitize=true)](https://git-start.com/help-request/overview/360disrupt%2Fgit-start-example)
